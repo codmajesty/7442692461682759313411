@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820754813669",
+    "project_id": "toca-boca-pool-ideas-a808b",
+    "storage_bucket": "toca-boca-pool-ideas-a808b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820754813669:android:b96842c3bac47a95d63a0c",
+        "android_client_info": {
+          "package_name": "com.toca.boca.pool.ideas.naufalharitsstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820754813669-ue3qtlkvf8vak9tl20qfpo2n7nur6vk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2VeMyYmM9PfsOW3yAKe2u2d48DBf6r0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820754813669-ue3qtlkvf8vak9tl20qfpo2n7nur6vk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
